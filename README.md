@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Luis Vasquez / altern4tiv0 ✨ </h1> 
+<h1 align="center">Hola 👋  soy Luis Vasquez / altern4tiv0  </h1> 
 
 <p align="left">
  
@@ -7,7 +7,7 @@
 
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi </h2>
 <!--Intro start-->
 
 <p align="left">
