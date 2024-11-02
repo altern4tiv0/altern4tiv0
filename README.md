@@ -2,8 +2,8 @@
 
 <p align="left">
  
-<a href="https://www.instagram.com/luis._.vqm/" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-500x281.png" alt="@Luis Vasquez"  height="35px" /></a>
-<a href="https://www.linkedin.com/in/luis-vasquez-88202a281/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@Luis Vasquez" height="30px" /></a>
+<a href="https://www.instagram.com/luis._.vqm/" target="_blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-500x281.png" alt="@Luis Vasquez"  height="35px" /></a>
+<a href="https://www.linkedin.com/in/luis-vasquez-88202a281/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@Luis Vasquez" height="30px" /></a>
 
   </p>
 <br>
